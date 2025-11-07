@@ -15,7 +15,9 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 <hr/>
 
 ## 🤳 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-khan-166281a6)
+<a href="https://www.linkedin.com/in/ameer-khan-166281a6">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon_white.svg" width="30" height="30" />
+</a>
 
 [<img align="left" alt="www.linkedin.com/in/ameer-khan-166281a6_| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
