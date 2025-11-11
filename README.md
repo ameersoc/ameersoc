@@ -6,11 +6,11 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Project-Ameer](https://github.com/ameersoc/WindowsServer-VulnerabilityRemediation-Project)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com)**
 
 <hr/>
 
