@@ -7,6 +7,10 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 
 - **[Vulnerability Management Project-Ameer](https://github.com/ameersoc/WindowsServer-VulnerabilityRemediation-Project)**
 
+## ⚠️ Real Time scenerios:
+
+- **[Network Performance Degradation](https://github.com/ameersoc/WindowsServer-VulnerabilityRemediation-Project)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 
