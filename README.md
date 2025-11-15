@@ -10,7 +10,7 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 ## ⚠️ Real Time scenerios:
 
 - **[Network Performance Degradation](https://github.com/ameersoc/Network-Performance-Degradation)**
-- **[Misconfigured Internet-Exposed VM & Brute-Force Attempts](https://github.com/ameersoc/Network-Performance-Degradation)**
+- **[Misconfigured Internet-Exposed VM & Brute-Force Attempts](https://github.com/ameersoc/Misconfigured-Internet-Exposed-VM-Brute-Force-Attempts)**
 
 
 
