@@ -9,7 +9,7 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 
 ## ⚠️ Real Time scenerios:
 
-- **[Malware Detection Using the EICAR Test File]()**
+- **[Malware Detection Using the EICAR Test File](https://github.com/ameersoc/Malware-Detection-Using-the-EICAR-Test-File)**
 - **[Network Performance Degradation](https://github.com/ameersoc/Network-Performance-Degradation)**
 - **[Misconfigured Internet-Exposed VM & Brute-Force Attempts](https://github.com/ameersoc/Misconfigured-Internet-Exposed-VM-Brute-Force-Attempts)**
 
