@@ -17,7 +17,7 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com)**
+- **[Threat Hunting Scenario (Detecting Exposed VMs and Brute-Force Activity in Shared Services Cluster)](https://github.com/ameersoc/Exposed-VM-Brute-Force-Login-Analysis)**
 
 <hr/>
 
