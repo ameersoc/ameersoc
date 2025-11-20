@@ -18,8 +18,7 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting (Detecting Exposed VMs and Brute-Force Activity in Shared Services Cluster)](https://github.com/ameersoc/Exposed-VM-Brute-Force-Login-Analysis)**
-- **[Internal Network Performance Degradation](https://github.com/ameersoc/Internal-Network-Performance-Degradation)**
-
+- **[Insider Threat Investigation & Threat Hunt Report]()
 <hr/>
 
 ## 🤳 Connect With Me
