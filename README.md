@@ -13,7 +13,9 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 - **[Network Performance Degradation](https://github.com/ameersoc/Network-Performance-Degradation)**
 - **[Misconfigured Internet-Exposed VM & Brute-Force Attempts](https://github.com/ameersoc/Misconfigured-Internet-Exposed-VM-Brute-Force-Attempts)**
 
+## Incident Response Scenerio:
 
+- **[Brute Force Attack Detection & Incident Response Lab (Azure + Sentinel + Defender for Endpoint)]()
 
 ## 🚨 Threat Hunting and Security Operations
 
