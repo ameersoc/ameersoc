@@ -15,7 +15,7 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 
 ## Incident Response Scenerio:
 
-- [Brute Force Attack Detection & Incident Response Lab (Azure + Sentinel + Defender for Endpoint)]()
+- [Brute Force Attack Detection & Incident Response Lab (Azure + Sentinel + Defender for Endpoint)](https://github.com/ameersoc/Brute-Force-Attack-Detection-Incident-Response)
 
 ## 🚨 Threat Hunting and Security Operations
 
