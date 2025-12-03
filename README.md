@@ -7,13 +7,9 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 
 - **[Vulnerability Management Project-Ameer](https://github.com/ameersoc/WindowsServer-VulnerabilityRemediation-Project)**
 
-## ⚠️ Real Time scenerios:
-
-- **[Malware Detection Using the EICAR Test File](https://github.com/ameersoc/Malware-Detection-Using-the-EICAR-Test-File)**
-- **[Network Performance Degradation](https://github.com/ameersoc/Network-Performance-Degradation)**
-- **[Misconfigured Internet-Exposed VM & Brute-Force Attempts](https://github.com/ameersoc/Misconfigured-Internet-Exposed-VM-Brute-Force-Attempts)**
 
 ## Incident Response Scenerio:
+- **[Malware Detection Using the EICAR Test File](https://github.com/ameersoc/Malware-Detection-Using-the-EICAR-Test-File)**
 
 - [Brute Force Attack Detection & Incident Response Lab (Azure + Sentinel + Defender for Endpoint)](https://github.com/ameersoc/Brute-Force-Attack-Detection-Incident-Response)
 
