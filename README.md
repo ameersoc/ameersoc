@@ -11,6 +11,8 @@ I’m Ameer, a cybersecurity enthusiast, focused on Security Operations, SIEM mo
 ## Incident Response Scenerio:
 - **[Malware Detection Using the EICAR Test File](https://github.com/ameersoc/Malware-Detection-Using-the-EICAR-Test-File)**
 - [Brute Force Attack Detection & Incident Response Lab (Azure + Sentinel + Defender for Endpoint)](https://github.com/ameersoc/Brute-Force-Attack-Detection-Incident-Response)
+- [Suspicous powershell command execution (Azure + Sentinel + Defender for Endpoint)](https://github.com/ameersoc/suspicious-powershell-execution)
+
 
 ## 🚨 Threat Hunting and Security Operations
 
